@@ -9,9 +9,6 @@ Here are a few [website templates](https://designmodo.com/website-templates/) yo
 
 ![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot2.jpg)
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot3.jpg)
-
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot4.jpg)
 
 
 ## [Slides: A Static Website Builder](https://designmodo.com/slides/)
